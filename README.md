@@ -1,2 +1,0 @@
-# booking_db
-test
